@@ -12,3 +12,11 @@ A atividade foi pensada para ser concluída em até 1h no laboratório, usando V
 - Nome: Maria Luiza Queiroz
 - Matricula: 923594
 
+## Print dos cards
+![Print dos cards](public/imagens/tarefa%209.png)
+
+## Print dos detalhes preenchidos após clicar em “Ver detalhes”
+![Ver detalhes](public/imagens/tarefa%209%20ver%20detalhes.png)
+
+## Print do console
+![Console](public/imagens/tarefa%209%20console.png)
