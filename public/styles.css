@@ -1,0 +1,19 @@
+#product-list {
+  display: flex;
+  flex-wrap: wrap;
+  gap: 10px;
+}
+
+.card {
+  border: 1px solid #ccc;
+  padding: 10px;
+  width: 200px;
+}
+
+.highlight {
+  border: 2px solid red;
+}
+
+img {
+  width: 100%;
+}
