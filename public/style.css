@@ -124,6 +124,6 @@ button:hover {
 #product-list {
     display: grid;
     grid-template-columns: repeat(4, 1fr); /* 4 por linha */
-    gap: 21px;
+    gap: 20px;
 }
 
